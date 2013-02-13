@@ -1,0 +1,8 @@
+regd // Hello
+jskd djgl xsjf // world
+cdjvfjvkmv
+xdjfkvf
+ffk // !!!
+cout << "Hello // world!";
+/* fhgkgl // hiii */
+// )))
